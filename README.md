@@ -33,6 +33,20 @@
 
 ---
 
+## 🏆 Programación Competitiva — ICPC
+
+> *Actualiza los resultados después de cada concurso.*
+
+| Competencia | Año | Ubicación | Resultado |
+|-------------|-----|-----------|-----------|
+| ICPC Caribbean Regional Qualifier | 2026 | Caribe | 🌴 **57° lugar** |
+| ICPC Cuba National Qualifier | 2026 | Cuba | 🇨🇺 **21° lugar** |
+| ICPC Holguín Regional | 2026 | Holguín | 🥈 **2° lugar** |
+
+![ICPC](https://img.shields.io/badge/ICPC-Competitor-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
