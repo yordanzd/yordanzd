@@ -35,7 +35,6 @@
 
 ## 🏆 Programación Competitiva — ICPC
 
-> *Actualiza los resultados después de cada concurso.*
 
 | Competencia | Año | Ubicación | Resultado |
 |-------------|-----|-----------|-----------|
