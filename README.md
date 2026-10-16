@@ -15,7 +15,7 @@
 | 🎓 **Estudiante** | Universidad de Holguín *Oscar Lucero Moya* (UHO) |
 | 📍 **Ubicación** | Holguín, Cuba 🇨🇺 |
 | 💻 **Enfoque** | Desarrollo de software y videojuegos |
-| 🌱 **Actualmente aprendiendo** | Profundizando en C++ y desarrollo web |
+| 🌱 **Actualmente aprendiendo** | Profundizando en C++, desarrollo web y desarrollo de IA|
 
 ---
 
